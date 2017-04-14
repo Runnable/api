@@ -1,5 +1,5 @@
 # api
-* A Node.js todo demo API server
+* Node.js ToDo API service
 
 ## Running locally
 
@@ -12,4 +12,10 @@ $ npm start
 
 ```bash
 $ npm run test
+```
+
+## Running with docker-compose
+
+```bash
+$ docker-compose up
 ```
